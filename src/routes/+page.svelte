@@ -28,9 +28,9 @@
     <Hero />
     <Carousel />
     <ValueProp />
+    <ProductConfigurator />
     <ShowroomGrid />
     <LifeWithBackyard />
-    <ProductConfigurator />
     <PeekInside />
     <Steps />
     <Features />
