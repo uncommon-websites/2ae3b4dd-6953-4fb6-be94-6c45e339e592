@@ -14,6 +14,11 @@
       img: "https://images.unsplash.com/photo-1540962351504-03099e0a754b?q=80&w=2071&auto=format&fit=crop",
       name: "Roland Garros",
       location: "Réunion, France"
+    },
+    {
+      img: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?q=80&w=2074&auto=format&fit=crop",
+      name: "International Installation",
+      location: "Global Network"
     }
   ];
 </script>
@@ -31,6 +36,7 @@
     <p class="text-gray-500 text-sm mb-4">Major installations <span class="text-gray-400">100+ airports worldwide</span></p>
     <div class="flex justify-center gap-2">
       <div class="w-1.5 h-1.5 rounded-full bg-gray-800"></div>
+      <div class="w-1.5 h-1.5 rounded-full bg-gray-300"></div>
       <div class="w-1.5 h-1.5 rounded-full bg-gray-300"></div>
       <div class="w-1.5 h-1.5 rounded-full bg-gray-300"></div>
     </div>
