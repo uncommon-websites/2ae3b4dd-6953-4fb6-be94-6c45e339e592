@@ -1,8 +1,8 @@
 <script lang="ts">
 </script>
 
-<section class="bg-white py-24 px-6" id="solutions">
-  <div class="max-w-[1000px] mx-auto text-center">
+<section class="bg-white py-24 px-6 -mt-32 relative z-10" id="solutions">
+  <div class="max-w-[1000px] mx-auto text-center bg-white rounded-lg shadow-lg p-12">
     <h2 class="text-[56px] leading-[1.1] font-light tracking-tight text-gray-900 mb-12">
       Runway Safe 
       <span class="inline-flex items-center justify-center align-middle mx-1 bg-gray-100 rounded px-2 h-[50px] w-[80px]">
