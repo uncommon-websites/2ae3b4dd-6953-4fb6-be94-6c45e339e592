@@ -16,6 +16,11 @@
   import Footer from "$lib/components/Footer.svelte";
 </script>
 
+<svelte:head>
+  <title>Runway Safe - EMAS Runway Safety Systems | 100+ Global Installations</title>
+  <meta name="description" content="Runway Safe provides proven EMAS (Engineered Material Arresting System) solutions for airports worldwide. FAA, ICAO, and EASA approved. 100+ installations across four continents. greenEMAS made from 100% recycled glass." />
+</svelte:head>
+
 <div class="font-sans antialiased text-gray-900 bg-white">
   <TopBanner />
   <Navbar />
