@@ -26,7 +26,6 @@
   <Navbar />
   <main>
     <Hero />
-    <Intro />
     <Carousel />
     <ValueProp />
     <ShowroomGrid />
