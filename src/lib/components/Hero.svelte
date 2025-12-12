@@ -19,9 +19,10 @@
         <p class="text-gray-600 text-[15px] leading-relaxed mb-4">
           Engineered Material Arresting System.<br>
           Stops aircraft overruns safely.<br>
-          100+ installations worldwide.
+          <span class="text-primary-600 font-medium">120+ installations worldwide.</span><br>
+          <span class="text-primary-600 font-medium">25+ years proven experience.</span>
         </p>
-        <a href="#technology" class="text-[13px] font-medium text-gray-900 hover:text-gray-600 transition-colors flex items-center gap-1">
+        <a href="#technology" class="text-[13px] font-medium text-primary-600 hover:text-primary-700 transition-colors flex items-center gap-1">
           Learn more <span class="text-[10px]">></span>
         </a>
       </div>
