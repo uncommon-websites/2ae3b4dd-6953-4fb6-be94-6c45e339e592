@@ -6,7 +6,6 @@
   import Carousel from "$lib/components/Carousel.svelte";
   import ValueProp from "$lib/components/ValueProp.svelte";
   import ShowroomGrid from "$lib/components/ShowroomGrid.svelte";
-  import LifeWithBackyard from "$lib/components/LifeWithBackyard.svelte";
   import ProductConfigurator from "$lib/components/ProductConfigurator.svelte";
   import PeekInside from "$lib/components/PeekInside.svelte";
   import Steps from "$lib/components/Steps.svelte";
@@ -30,7 +29,6 @@
     <ValueProp />
     <ProductConfigurator />
     <ShowroomGrid />
-    <LifeWithBackyard />
     <PeekInside />
     <Steps />
     <Features />
