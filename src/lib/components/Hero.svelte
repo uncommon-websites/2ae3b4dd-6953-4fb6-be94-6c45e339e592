@@ -28,13 +28,4 @@
       </div>
     </div>
   </div>
-
-  <!-- Hero Image -->
-  <div class="w-full h-[600px] bg-gray-200 overflow-hidden relative">
-    <img 
-      src="https://images.unsplash.com/photo-1436491865332-7a61a109cc05?q=80&w=2074&auto=format&fit=crop" 
-      alt="Airport runway with EMAS safety system" 
-      class="w-full h-full object-cover"
-    />
-  </div>
 </section>
